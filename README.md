@@ -10,39 +10,29 @@ All programs run in Python 3 only.
 
 ##Morphology
 ###ParaMorfo: morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives
-1.1 (2014-06-17)
-Download distribution
-Download Quick Reference (also included with distribution)
+
+Versions:
+* 1.1 (2014-06-17)  
 
 ###HornMorpho: morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
-2.5 (2012-07-11)
-Download distribution
-Download User's Guide (also included with distribution)
-Download Quick Reference (also included with distribution)
-2.3 (2011-07-01)
-Download distribution
-Download User's Guide (also included with distribution; not yet updated for 2.3)
-Download Quick Reference (also included with distribution; not yet updated for 2.3)
-2.2 (2011-01-09)
-Download distribution
-Download User's Guide (also included with distribution)
-Download Quick Reference (also included with distribution)
-2.0 (2010-06-19)
-Download distribution
-Download User's Guide (also included with distribution)
-Download Quick Reference (also included with distribution)
+
+Version:
+
+* 2.5 (2012-07-11)  
+* 2.3 (2011-07-01)  
+* 2.2 (2011-01-09)  
+* 2.0 (2010-06-19)
 
 ###AntiMorfo: morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
-1.2 (2011-04-13)
-Download distribution
-Download User's Guide (also included with distribution)
-1.1 (2010-09-28)
-Download distribution
-Download User's Guide (also included with distribution)
+
+Version: 
+* 1.2 (2011-04-13)
+* 1.1 (2010-09-28)
 
 ###MorfoMelayu: morphological analysis of Malay words
-0.9.6 (2010-12-30)
-Download distribution
+
+Version: 
+* 0.9.6 (2010-12-30)
 
 ###Syntax and semantics
 ####L3XDG: Extensible Dependency Grammar (Debusmann, 2007) for translation
